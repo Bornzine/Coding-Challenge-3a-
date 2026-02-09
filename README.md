@@ -1,1 +1,1 @@
-# Coding-Challenge-3a-
+# Coding-Challenge-3a- This assignement covers all of the steps such as creating js file, creating customer records, adding and removing data, updating customer info, and displaying customer information
